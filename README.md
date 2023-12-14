@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/thearhamsharif" target="blank"><img src="https://img.shields.io/twitter/follow/thearhamsharif?logo=twitter&style=for-the-badge" alt="thearhamsharif" /></a> </p>
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💻 Skills **Full Stack Web Developer, ERP Developer, HTML, CSS, Javascript, jQuery, PHP, Codeigniter, Laravel, MySQL**
 
