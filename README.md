@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arham Sharif</h1>
-<h3 align="center">I am Computer Science Under Graudate from UBIT, University of Karachi</h3>
+<h3 align="center">I am 🎓 Computer Science Under Graudate from UBIT, University of Karachi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thearhamsharif&label=Profile%20views&color=0e75b6&style=flat" alt="thearhamsharif" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 💬 Ask me about **Full Stack Web Developer, ERP Developer, HTML, CSS, Javascript, jQuery, PHP, Codeigniter, Laravel, MySQL**
+- 💻 Skills **Full Stack Web Developer, ERP Developer, HTML, CSS, Javascript, jQuery, PHP, Codeigniter, Laravel, MySQL**
 
 - 📫 How to reach me **sarham928@gmail.com**
 
