@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💻 Skills **Full Stack Web Developer, ERP Developer, HTML, CSS, Javascript, jQuery, PHP, Codeigniter, Laravel, MySQL**
+- 💻 **Full Stack Web And ERP Developer**
 
 - 📫 How to reach me **sarham928@gmail.com**
 
