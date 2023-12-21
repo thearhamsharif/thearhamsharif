@@ -5,7 +5,7 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=thearhamsharif" alt="thearhamsharif" /></p>
 
-<p align="left"><img src="https://img.shields.io/twitter/follow/thearhamsharif?logo=twitter&style=for-the-badge" alt="thearhamsharif" /></p>
+<p align="left"> <a href="https://twitter.com/thearhamsharif" target="blank"><img src="https://img.shields.io/twitter/follow/thearhamsharif?logo=twitter&style=for-the-badge" alt="thearhamsharif" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
