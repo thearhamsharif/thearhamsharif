@@ -5,7 +5,7 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=thearhamsharif&theme=nord" alt="thearhamsharif" /></p>
 
-<p align="left"> <a href="https://twitter.com/thearhamsharif" target="blank"><img src="https://img.shields.io/twitter/follow/thearhamsharif?logo=twitter&style=for-the-badge" alt="thearhamsharif" /></a> </p>
+<p align="left"> <a href="https://twitter.com/thearhamsharif" target="_blank"><img src="https://img.shields.io/twitter/follow/thearhamsharif?logo=twitter&style=for-the-badge" alt="thearhamsharif" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -15,14 +15,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/thearhamsharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thearhamsharif" height="30" width="40" /></a>
-<a href="https://twitter.com/thearhamsharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thearhamsharif" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thearhamsharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thearhamsharif" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15181424/arham-sharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arham-sharif" height="30" width="40" /></a>
-<a href="https://fb.com/thearhamsharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thearhamsharif" height="30" width="40" /></a>
-<a href="https://instagram.com/thearhamsharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thearhamsharif" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/thearhamsharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thearhamsharif" height="30" width="40" /></a>
-<a href="https://discord.gg/thearhamsharif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thearhamsharif" height="30" width="40" /></a>
+<a href="https://codepen.io/thearhamsharif" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thearhamsharif" height="30" width="40" /></a>
+<a href="https://twitter.com/thearhamsharif" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thearhamsharif" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thearhamsharif" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thearhamsharif" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15181424/arham-sharif" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arham-sharif" height="30" width="40" /></a>
+<a href="https://fb.com/thearhamsharif" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thearhamsharif" height="30" width="40" /></a>
+<a href="https://instagram.com/thearhamsharif" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thearhamsharif" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/thearhamsharif" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thearhamsharif" height="30" width="40" /></a>
+<a href="https://discord.gg/thearhamsharif" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thearhamsharif" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
